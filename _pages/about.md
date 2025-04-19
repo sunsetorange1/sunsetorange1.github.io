@@ -30,9 +30,9 @@ I’m **Alexander Selman**, a Cybersecurity Consultant based in Adelaide, Austr
   – DISP, ISO 27001, CMMC advisory & CREST accreditation support  
 
 - **Project Management**
-- Delivered client projects at 2excel, coordinating 10‑member developement teams to hit schedule and budget targets.  
-- Managed Agile plans, risk logs, and reports (JIRA)
-- Ran stakeholder briefings and workshops
+  – Delivered client projects at 2excel, coordinating 10‑member developement teams to hit schedule and budget targets.  
+  – Managed Agile plans, risk logs, and reports (JIRA)
+  – Ran stakeholder briefings and workshops
 
 - **Tools & Technologies**  
   Python · Bash · PowerShell · Linux · Jekyll · GitHub Pages · SourceMod · VScript · DuckyScript
@@ -62,8 +62,10 @@ I’m **Alexander Selman**, a Cybersecurity Consultant based in Adelaide, Austr
 
 ## Personal Projects
 
-- **Team Fortress 2 server host**: Configure and maintain community servers with SourceMod and VScript for competitive play.
+- **Home ELK Stack Deployment**: Architecting and deploying an Elasticsearch, Logstash & Kibana stack on Ubuntu VMs in a home lab for end‑to‑end log ingestion, parsing with Beats, and real‑time dashboarding and alerting.
 - **Private Cloud Storage**: Built a private cloud server with NextCloudPi and deployed it in my home environment.
+- **Team Fortress 2 server host**: Configure and maintain community servers with SourceMod and VScript for competitive play.
+
 
 <div align="center">  
   <a href="/about"><strong>About Me</strong></a> •  
