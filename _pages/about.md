@@ -57,11 +57,8 @@ I’m **Alexander Selman**, a Cybersecurity Consultant based in Adelaide, Austr
 
 ## Personal Projects
 
-- **Team Fortress 2 server host**: Configure and maintain servers with SourceMod and VScript for competitive play.
-
-## Download My CV
-
-[**Download CV (PDF)**](/files/Alexander_Selman_CV.pdf)
+- **Team Fortress 2 server host**: Configure and maintain community servers with SourceMod and VScript for competitive play.
+- **Private Cloud Storage**: Built a private cloud server with NextCloudPi and deployed it in my home environment.
 
 <div align="center">  
   <a href="/about"><strong>About Me</strong></a> •  
