@@ -30,9 +30,9 @@ I’m **Alexander Selman**, a Cybersecurity Consultant based in Adelaide, Austr
   – DISP, ISO 27001, CMMC advisory & CREST accreditation support  
 
 - **Project Management**
-  – Delivered client projects at 2excel, coordinating 10‑member developement teams to hit schedule and budget targets.  
-  – Managed Agile plans, risk logs, and reports (JIRA)
-  – Ran stakeholder briefings and workshops
+  -  Delivered client projects at 2excel, coordinating 10‑member developement teams to hit schedule and budget targets.
+  -  Managed Agile plans, risk logs, and reports (JIRA)
+  -  Ran stakeholder briefings and workshops
 
 - **Tools & Technologies**  
   Python · Bash · PowerShell · Linux · Jekyll · GitHub Pages · SourceMod · VScript · DuckyScript
