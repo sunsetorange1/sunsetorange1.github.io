@@ -64,7 +64,7 @@ I’m **Alexander Selman**, a Cybersecurity Consultant based in Adelaide, Austr
 
 - **Home ELK Stack Deployment**: Architecting and deploying an Elasticsearch, Logstash & Kibana stack on Ubuntu VMs in a home lab for end‑to‑end log ingestion, parsing with Beats, and real‑time dashboarding and alerting.
 - **Private Cloud Storage**: Built a private cloud server with NextCloudPi and deployed it in my home environment.
-- **Team Fortress 2 server host**: Configure and maintain community servers with SourceMod and VScript for competitive play.
+- **Team Fortress 2 Server Hosting**: Configure and maintain community servers with SourceMod and VScript for competitive play.
 
 
 <div align="center">  
