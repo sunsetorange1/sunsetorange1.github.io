@@ -1,49 +1,69 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Alexander Selman – Cybersecurity Consultant Portfolio"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /resume/
+  - /cv/
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+## Professional Summary
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I’m **Alexander Selman**, a Cybersecurity Consultant based in Adelaide, Australia. Since joining Secure State Consultants in early 2023, I’ve:
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- Led **15 full‑scope penetration test engagements** across Active Directory, web apps, APIs, cloud and physical environments—achieving Domain Administrator in 14 of them.  
+- Conceived and deployed a **Threat Intelligence programme** on the Flare platform (April 2025), configuring custom identifiers to surface actionable alerts.  
+- Oversaw and mentored a team of **three penetration testers**, refining methodologies and increasing efficiency.  
+- Architected QA automation in my previous IT Project Coordinator role, halving the QA cycle time.  
+- Was a finalist in the **2025 Australian Cyber Awards** (Cyber Security Rising Star category).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## Core Expertise
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- **Offensive Security & Pentesting**  
+  – Active Directory domain compromise, NTLM relays, certificate‑based attacks  
+  – Web application & API security testing  
+  – Azure cloud assessments, physical security reviews  
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- **Threat Intelligence & GRC**  
+  – Threat Intel programme design & Flare deployment  
+  – Incident response guidance & tabletop exercises  
+  – DISP, ISO 27001, CMMC advisory & CREST accreditation support  
 
-**Markdown generator**
+- **Tools & Technologies**  
+  Python · PowerShell · Linux · Windows · Jekyll · GitHub Pages · SourceMod · VScript
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+## Education & Certifications
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+- **Diploma of Information Technology**, University of South Australia (2022)  
+- **Practical Junior Penetration Tester (PJPT)** – TCM Security, 2023  
+- **CyberWarFare Labs Cybersecurity Analyst**, 2023  
+- **Certified in Cybersecurity (CC)** – (ISC)², 2023  
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+## Professional Experience Highlights
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+**Secure State Consultants** (Feb 2023 – Present)  
+- Lead and report on pentests covering AD, web apps, APIs, Azure and physical networks.  
+- Deployed a custom‑configured Flare Threat Intelligence programme.  
+- Mentor three junior testers, improving team throughput and report quality.
+
+**2excel Software** (2020 – 2023)  
+- Managed Agile software projects and stakeholder communications.  
+- Introduced QA automation that **halved our testing cycle time**.
+
+## Awards & Recognition
+
+- **Cyber Security Rising Star 2025 finalist**, Australian Cyber Awards
+
+## Personal Projects
+
+- **Team Fortress 2 server host**: Configure and maintain servers with SourceMod and VScript for competitive play.
+
+## Download My CV
+
+[**Download CV (PDF)**](/files/Alexander_Selman_CV.pdf)
+
+<div align="center">  
+  <a href="/about"><strong>About Me</strong></a> •  
+  <a href="/blog"><strong>Blog</strong></a> •  
+  <a href="/cv"><strong>CV</strong></a>  
+</div>
