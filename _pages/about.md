@@ -11,7 +11,7 @@ redirect_from:
 
 I’m **Alexander Selman**, a Cybersecurity Consultant based in Adelaide, Australia. Since joining Secure State Consultants in early 2023, I’ve:
 
-- Led **15 full‑scope penetration test engagements** across Active Directory, web apps, APIs, cloud and physical environments—achieving Domain Administrator in 14 of them.  
+- Led **20+ full‑scope penetration test engagements** across Active Directory, web apps, APIs, cloud and physical assessments.  
 - Conceived and deployed a **Threat Intelligence programme** on the Flare platform (April 2025), configuring custom identifiers to surface actionable alerts.  
 - Oversaw and mentored a team of **three penetration testers**, refining methodologies and increasing efficiency.  
 - Architected QA automation in my previous IT Project Coordinator role, halving the QA cycle time.  
@@ -20,7 +20,7 @@ I’m **Alexander Selman**, a Cybersecurity Consultant based in Adelaide, Austr
 ## Core Expertise
 
 - **Offensive Security & Pentesting**  
-  – Active Directory domain compromise, NTLM relays, certificate‑based attacks  
+  – Active Directory domain compromise, certificate‑based attacks, network pivoting  
   – Web application & API security testing  
   – Azure cloud assessments, physical security reviews  
 
@@ -30,7 +30,7 @@ I’m **Alexander Selman**, a Cybersecurity Consultant based in Adelaide, Austr
   – DISP, ISO 27001, CMMC advisory & CREST accreditation support  
 
 - **Tools & Technologies**  
-  Python · PowerShell · Linux · Windows · Jekyll · GitHub Pages · SourceMod · VScript
+  Python · Bash · PowerShell · Linux · Windows · Jekyll · GitHub Pages · SourceMod · VScript · DuckyScript
 
 ## Education & Certifications
 
@@ -42,12 +42,13 @@ I’m **Alexander Selman**, a Cybersecurity Consultant based in Adelaide, Austr
 ## Professional Experience Highlights
 
 **Secure State Consultants** (Feb 2023 – Present)  
-- Lead and report on pentests covering AD, web apps, APIs, Azure and physical networks.  
+- Lead and report on pentests covering AD, web apps, APIs, Azure and physical assessments.  
 - Deployed a custom‑configured Flare Threat Intelligence programme.  
-- Mentor three junior testers, improving team throughput and report quality.
+- Mentored three junior testers, improving team throughput and report quality.
 
 **2excel Software** (2020 – 2023)  
-- Managed Agile software projects and stakeholder communications.  
+- Managed Agile software projects and stakeholder communications.
+- Developed custom, interactive mobile and web application prototypes. 
 - Introduced QA automation that **halved our testing cycle time**.
 
 ## Awards & Recognition
