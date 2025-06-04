@@ -62,6 +62,7 @@ I’m **Alexander Selman**, a Cybersecurity Consultant based in Adelaide, Austr
 
 ## Personal Projects
 
+- **Website Development**: Developed various ecommerce and community focused websites such as [ohhoney.au](https://ohhoney.au), [harujapan.com.au](https://harujapan.com.au) and [noobpugs.com](https://noobpugs.com)
 - **Home ELK Stack Deployment**: Architecting and deploying an Elasticsearch, Logstash & Kibana stack on Ubuntu VMs in a home lab for end‑to‑end log ingestion, parsing with Beats, and real‑time dashboarding and alerting.
 - **Private Cloud Storage**: Built a private cloud server with NextCloudPi and deployed it in my home environment.
 - **Team Fortress 2 Server Hosting**: Configure and maintain community servers with SourceMod and VScript for competitive play.
