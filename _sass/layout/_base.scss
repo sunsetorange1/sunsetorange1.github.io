@@ -101,7 +101,7 @@ blockquote {
   padding-right: 1em;
   font-style: italic;
   border-left: 0.25em solid var(--global-accent-color);
-  background-color: darken(var(--global-bg-color), 3%);
+  background-color: rgba(0, 0, 0, 0.03);
 
   cite {
     font-style: italic;
