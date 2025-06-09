@@ -68,8 +68,6 @@ I’m **Alexander Selman**, a Cybersecurity Consultant based in Adelaide, Austr
 - **Team Fortress 2 Server Hosting**: Configure and maintain community servers with SourceMod and VScript for competitive play.
 
 
-<div align="center">  
-  <a href="/about"><strong>About Me</strong></a> •  
-  <a href="/blog"><strong>Blog</strong></a> •  
-  <a href="/cv"><strong>CV</strong></a>  
+<div align="center">   
+  <a href="/projects"><strong>Project Details</strong></a>  
 </div>
