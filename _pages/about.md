@@ -35,7 +35,7 @@ I’m **Alexander Selman**, a Cybersecurity Consultant based in Adelaide, Austr
   – Ran stakeholder briefings and workshops 
 
 - **Tools & Technologies**  
-  Python · Bash · PowerShell · Linux · Jekyll · GitHub Pages · SourceMod · VScript · DuckyScript
+  Python · Bash · PowerShell · Linux · Burp Suite · VMware · SourceMod · VScript · DuckyScript
 
 ## Education & Certifications
 
