@@ -39,10 +39,11 @@ I’m **Alexander Selman**, a Cybersecurity Consultant based in Adelaide, Austr
 
 ## Education & Certifications
 
-- **Diploma of Information Technology**, University of South Australia (2022)  
+- **Diploma of Information Technology**, University of South Australia, 2022  
 - **Practical Junior Penetration Tester (PJPT)** – TCM Security, 2023  
 - **CyberWarFare Labs Cybersecurity Analyst**, 2023  
-- **Certified in Cybersecurity (CC)** – (ISC)², 2023  
+- **Certified in Cybersecurity (CC)** – (ISC)², 2023
+- **Cyber Threat Intelligence Specialist I (CTIS-I)** - The Center for Threat Intelligence, 2025 
 
 ## Professional Experience Highlights
 
