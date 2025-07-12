@@ -20,11 +20,13 @@ I’m **Alexander Selman**, a Cybersecurity Consultant based in Adelaide, Austr
 ## Core Expertise
 
 - **Offensive Security & Pentesting**  
+
   – Active Directory domain compromise, certificate‑based attacks, network pivoting  
   – Web application & API security testing  
   – Azure cloud assessments, physical security reviews  
 
 - **Threat Intelligence & GRC**  
+
   – Threat Intel programme design & Flare deployment  
   – Incident response guidance & tabletop exercises  
   – DISP, ISO 27001, CMMC advisory & CREST accreditation support  
@@ -36,6 +38,7 @@ I’m **Alexander Selman**, a Cybersecurity Consultant based in Adelaide, Austr
   – Ran stakeholder briefings and workshops 
 
 - **Tools & Technologies**  
+
   Python · Bash · PowerShell · Linux · Burp Suite · VMware · SourceMod · VScript · DuckyScript
 
 ## Education & Certifications
