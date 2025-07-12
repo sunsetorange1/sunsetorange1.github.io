@@ -13,8 +13,7 @@ I’m **Alexander Selman**, a Cybersecurity Consultant based in Adelaide, Austr
 
 - Led **20+ full‑scope penetration test engagements** across Active Directory, web apps, APIs, cloud and physical assessments.  
 - Conceived and deployed a **Threat Intelligence programme** on the Flare platform (April 2025), configuring custom identifiers to surface actionable alerts.  
-- Oversaw and mentored a team of **three penetration testers**, refining methodologies and increasing efficiency.  
-- Architected QA automation in my previous IT Project Coordinator role, halving the QA cycle time.  
+- Oversaw and mentored a team of **three penetration testers**, refining methodologies and increasing efficiency.   
 - Was a finalist in the **2025 Australian Cyber Awards** (Cyber Security Rising Star category).
 
 ## Core Expertise
